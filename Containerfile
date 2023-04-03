@@ -1,5 +1,5 @@
 # Start from Ubuntu
-FROM ubuntu:22.04
+FROM docker.io/ubuntu:22.04
 LABEL \
   org.opencontainers.image.authors="Marco Bungart <mail@example.com>" \
   org.opencontainers.image.licenses=Apache-2.0 \
